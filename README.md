@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco Ron 
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning about Ethical Hacking
+- 👀 Master in Computer Science (CSUSB)
+- 🌱 I’m currently finishing my AS in Cyber Defense at RCC
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me at @fron@student.rccd.edu
 
