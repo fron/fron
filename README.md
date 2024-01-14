@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco Ron 
 - 👀 Master in Computer Science (CSUSB)
-- 🌱 I’m currently finishing my AS in Cyber Defense at RCC
+- 🌱 AS in Cyber Defense (Riverside Community College)
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me at @fron@student.rccd.edu
 
