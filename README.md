@@ -2,7 +2,7 @@
 - 👀 Master in Computer Science (CSUSB)
 - 🌱 AS in Cyber Defense (Riverside Community College)
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 You can reach me at @fron@student.rccd.edu
+- 📫 You can reach me at francisqueins@hotmail.com
 
 <!---
 fron/fron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
